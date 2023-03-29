@@ -1,10 +1,10 @@
-# Automation tests for [Automation Practise Website](http://automationpractice.com/ "automationpractice")
+# Automation tests for [Automation Practise Website](http://automationpractice.com/ "automationpractice") 
+## $\textcolor{red}{This\ testing\ page\ is\ no\ longer\ available\!}$
 This is a simple project for testing website using **Pytest** and **Selenium**.
-Example report is available in the repository: _examplereport.html_
+
 ### Prerequisites
 In order to run these tests:
-  - **Chrome Web Browser** 
-  - and **Python 3** are needed
+  - **Chrome Web Browser** is needed
 
 ### Run project
 Get clone from this repo
